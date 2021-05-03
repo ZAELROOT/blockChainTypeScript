@@ -1,0 +1,12 @@
+{
+  "name": "blockChainTypeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ZAELROOT/blockChainTypeScript.git",
+  "author": "ZAELROOT <josu1918@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start":"node index.js",
+    "prestart": "tsc"
+  }
+}
