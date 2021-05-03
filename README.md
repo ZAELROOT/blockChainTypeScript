@@ -1,2 +1,2 @@
 # blockChainTypeScript
-Practice about create blockChain with Typescript
+This repo is Practicing about create blockChain with Typescript
